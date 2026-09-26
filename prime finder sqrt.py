@@ -1,6 +1,6 @@
 import math
 n = 1
-while n < 1000000: # if you want it to run infinitely, replace "n < 100000" with "True"
+while n < 1000000: # if you want it to run infinitely, replace "n < 1000000" with "True"
     n += 1
     prime = True
     sqrt = math.sqrt(n)
